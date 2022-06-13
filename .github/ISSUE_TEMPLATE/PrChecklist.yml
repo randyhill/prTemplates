@@ -11,7 +11,7 @@ body:
         - label: Lines of code less than 500?
           required: true
  - type: checkboxes
-    id: terms
+    id: prefix
     attributes:
       label: Title includes correction prefix?
       description: feat:, fix:, regfix:, refactor:, chore:
