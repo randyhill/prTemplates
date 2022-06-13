@@ -10,10 +10,11 @@ body:
       options:
         - label: Lines of code less than 500?
           required: true
-    id: prefix
-    attributes:
-      label: Title includes correction prefix?
-      description: feat:, fix:, regfix:, refactor:, chore:
-      options:
-        - label: Title includes prefix?
-          required: true
+#   - type: checkboxes
+#     id: prefix
+#     attributes:
+#       label: Title includes correction prefix?
+#       description: feat:, fix:, regfix:, refactor:, chore:
+#       options:
+#         - label: Title includes prefix?
+#           required: true
