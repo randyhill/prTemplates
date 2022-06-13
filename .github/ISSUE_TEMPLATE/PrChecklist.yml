@@ -4,10 +4,17 @@ title: "[Bug]: "
 labels: ["PR review"]
 body:
   - type: checkboxes
+    id: loc
+    attributes:
+      label: Lines of Code
+      options:
+        - label: Lines of code less than 500?
+          required: true
+ - type: checkboxes
     id: terms
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      label: Title includes correction prefix?
+      description: feat:, fix:, regfix:, refactor:, chore:
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: Title includes prefix?
           required: true
