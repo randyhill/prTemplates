@@ -6,14 +6,14 @@ body:
   - type: checkboxes
     id: loc
     attributes:
-      label:
+      label: Lines of Code
       options:
         - label: Lines of code less than 500?
           required: true
   - type: checkboxes
     id: prefix
     attributes:
-      label:
+      label: Prefix
       description: feat, fix, regfix, refactor, chore
       options:
         - label: Title includes prefix?
