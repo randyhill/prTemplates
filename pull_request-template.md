@@ -1,9 +1,12 @@
+## Pull Request Description
+
+
+## Pull Request Checklist
+Please read through the following checklist before opening a pull request.
+
 https://ouraring.atlassian.net/wiki/spaces/SW/pages/3694756120/iOS+PR+Checklist 
-Using the iOS PR Checklist, check that you've done the following (or add a comment explaining for each that you haven't)
+Using the following Checklist, check (with an X) those that are done or add a comment to the description above explaining those that aren't
 
-## Pull request checklist
-
-Please read through this short checklist before opening a pull request.
 
 [ ] 1a. Is it targeted against master?
 [ ] 1b. Was it flagged for experimental?
