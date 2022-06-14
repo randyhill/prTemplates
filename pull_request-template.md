@@ -2,7 +2,7 @@
 
 
 ## PR Checklist
-Please fill out the following checklist before opening a pull request. Check (with X) those done or add comment to the description above explaining those that aren't.
+Please fill out the following checklist before opening a pull request. Check (with X) those done or add comment to above description explaining those that aren't.
 
 https://ouraring.atlassian.net/wiki/spaces/SW/pages/3694756120/iOS+PR+Checklist 
 
