@@ -1,10 +1,9 @@
 ## Description
 
 
-## PR Checklist
-Please fill out the following checklist before opening a pull request. Check (with X) those done or add comment to above description explaining those that aren't.
+## [PR Checklist] (https://ouraring.atlassian.net/wiki/spaces/SW/pages/3694756120/iOS+PR+Checklist)
 
-https://ouraring.atlassian.net/wiki/spaces/SW/pages/3694756120/iOS+PR+Checklist 
+Please fill out the following checklist before opening a pull request. Check (with X) those done or add comment to above description explaining those that aren't.
 
 [ ] 1a. Is it targeted against master?
 [ ] 1b. Was it flagged for experimental?
