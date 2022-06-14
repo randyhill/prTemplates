@@ -1,4 +1,6 @@
+https://ouraring.atlassian.net/wiki/spaces/SW/pages/3694756120/iOS+PR+Checklist
+Referencing the iOS PR Checklist, check that you've done the following (or add a comment explaining any that you haven't
 - [ ] I have performed a self-review of my code
-- [ ] If it is a core feature, I have added thorough tests.
-- [ ] Do we need to implement analytics?
-- [ ] Will this be part of a product update? If yes, please write one phrase about this update.
+1 - [ ] I have properly targeted the PR.
+2 - [ ] I have kept the size under 500 lines of code and only target specific domains.
+3 - [ ] The title has a descriptive title and uses proper form.
